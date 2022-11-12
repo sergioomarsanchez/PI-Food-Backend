@@ -4,8 +4,6 @@ const arrayKeys = [
                 "b93b6c7e79364820bdc896312919eec2",
                 "237182fee3534b17a9dbd50658ef9825",
                 "06e20bb92e9f4fc7b6c9bda78f3cb9f2",
-                "c5ad611b435f4c7cbfde2da756c9309b",
-                "65617479b2a34a2f8aeccdaff4663692",
                 "6e27dd8cfb8f46e2acc067ada8887d66"
             ]
 
