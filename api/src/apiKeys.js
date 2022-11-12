@@ -7,6 +7,6 @@ const arrayKeys = [
                 "6e27dd8cfb8f46e2acc067ada8887d66"
             ]
 
-const ApiKeys = ()=>arrayKeys[Math.floor(Math.random() * 8)];
+const ApiKeys = ()=>arrayKeys[Math.floor(Math.random() * 6)];
 
 module.exports = { ApiKeys };
